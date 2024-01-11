@@ -2,7 +2,7 @@
 
 `tqdm`, what a weird name! Oh wait, I have a better name for it: `qtmd`!
 
-"qtmd" is the phonetic abbreviation of the Chinese "去他妈的" (qù tā mā de), which translates to "<span style="opacity: 0;">go f\*\*k yourself</span>". The next time you meet your Chinese friends, greet them with "qù tā mā de", and you will definitely leave a lasting impression on them.
+"qtmd" is the phonetic abbreviation of the Chinese "去他妈的" (qù tā mā de). The next time you meet your Chinese friends, greet them with "qù tā mā de", and you will definitely leave a lasting impression on them.
 
 ## Usage
 
