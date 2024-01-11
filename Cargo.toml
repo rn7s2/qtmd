@@ -1,0 +1,17 @@
+[package]
+name = "qtmd"
+version = "0.1.0"
+edition = "2021"
+
+readme = "README.md"
+license = "MIT OR Apache-2.0"
+description = "better name for tqdm"
+repository = "https://github.com/rn7s2/qtmd"
+documentation = "https://docs.rs/qtmd/latest/qtmd"
+
+authors = ["rn7s2"]
+keywords = ["qtmd", "tqdm", "progress", "iterator"]
+categories = ["accessibility", "command-line-utilities"]
+
+[dependencies]
+tqdm = "0.6.0"
