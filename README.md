@@ -15,6 +15,10 @@ for _ in qtmd(0..10000) {
 }
 ```
 
+```
+ 76%|███████████████▉     | 7618/10000 [00:09<00:03, 782.14it/s]
+```
+
 Expose trait to allow method chaining
 
 ```rust
@@ -22,6 +26,10 @@ use qtmd::{Iter, Style};
 for _ in (0..).take(10000).qtmd().style(Style::Balloon) {
     ...
 }
+```
+
+```
+ 47%|**********.          | 4792/10000 [00:06<00:06, 783.39it/s]
 ```
 
 ## Well...
