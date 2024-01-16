@@ -1,5 +1,7 @@
 # qtmd（qù tā mā de）
 
+> Instantly make your loops show a smart progress meter - just wrap any iterable with tqdm(iterable), and you're done!
+
 `tqdm`, what a weird name! Oh wait, I have a better name for it: `qtmd`!
 
 "qtmd" is the phonetic abbreviation of the Chinese "去他妈的" (qù tā mā de). The next time you meet your Chinese friends, greet them with "qù tā mā de", and you will definitely leave a lasting impression on them.
